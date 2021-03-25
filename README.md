@@ -16,10 +16,10 @@
 ### Programming Languages
 
 <span>
-  <img style="display: inline-block;" src="https://github.com/github/explore/blob/master/topics/python/python.png" alt="Python" width="40" height="40" />&nbsp;
-  <img style="display: inline-block;" src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png" alt="Python" width="40" height="40" />&nbsp;
-  <img style="display: inline-block;" src="https://github.com/github/explore/blob/master/topics/c/c.png" alt="Python" width="40" height="40" />&nbsp;
-  <img style="display: inline-block;" src="https://github.com/github/explore/blob/master/topics/cpp/cpp.png" alt="Python" width="40" height="40" />&nbsp;  
+  ![Python](https://github.com/github/explore/blob/master/topics/python/python.png)&nbsp;
+  ![JavaScript](https://github.com/github/explore/blob/master/topics/javascript/javascript.png)&nbsp;
+  ![C](https://github.com/github/explore/blob/master/topics/c/c.png)&nbsp;
+  ![C++](https://github.com/github/explore/blob/master/topics/cpp/cpp.png)&nbsp;  
 </span>
 
 ### Databases
