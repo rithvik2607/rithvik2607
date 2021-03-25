@@ -10,7 +10,7 @@
 
 [![Rithvik's github stats](https://github-readme-stats.vercel.app/api?username=rithvik2607&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)  [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=rithvik2607&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
-
+#
 ## My Skill Set
 
 ### Programming Languages
@@ -52,3 +52,4 @@
   <img style="display: inline-block;" src="https://github.com/github/explore/blob/master/topics/git/git.png" alt="Git" width="40" height="40" />&nbsp;
   <img style="display: inline-block;" src="https://github.com/github/explore/blob/master/topics/jupyter-notebook/jupyter-notebook.png" alt="Git" width="40" height="40" />&nbsp;
 </span>
+#
