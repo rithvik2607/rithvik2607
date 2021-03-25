@@ -15,12 +15,10 @@
 
 ### Programming Languages
 
-<span>
-  ![Python](https://github.com/github/explore/blob/master/topics/python/python.png)&nbsp;
-  ![JavaScript](https://github.com/github/explore/blob/master/topics/javascript/javascript.png)&nbsp;
-  ![C](https://github.com/github/explore/blob/master/topics/c/c.png)&nbsp;
-  ![C++](https://github.com/github/explore/blob/master/topics/cpp/cpp.png)&nbsp;  
-</span>
+![Python](https://github.com/github/explore/blob/master/topics/python/python.png)
+![JavaScript](https://github.com/github/explore/blob/master/topics/javascript/javascript.png)
+![C](https://github.com/github/explore/blob/master/topics/c/c.png)
+![C++](https://github.com/github/explore/blob/master/topics/cpp/cpp.png)
 
 ### Databases
 
