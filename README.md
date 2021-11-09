@@ -1,6 +1,6 @@
 # Hi There :smile:
 
-:student: I'm Rithvik, a sophomore at VIT majoring in CS. 
+:student: I'm Rithvik, a junior at VIT majoring in CS. 
 
 :man_technologist: I'm Interested in Competitive Coding, Data Structures and Algorithms, Web Development and Machine Learning.
 
