@@ -1,10 +1,8 @@
 # Hi There :smile:
 
-:student: I'm Rithvik, a junior at VIT majoring in CS. 
+:student: I'm Rithvik, a senior at VIT majoring in CS. 
 
-:man_technologist: I'm Interested in Competitive Coding, Data Structures and Algorithms, Web Development and Machine Learning.
-
-:raising_hand_man: I'm open to collaborate on machine learning and web development projects.
+:man_technologist: I'm Interested in Data Structures and Algorithms and Web Development.
 
 :email: You can reach out to me via [LinkedIn](https://www.linkedin.com/in/sai-rithvik-ayithapu-3568881a3) and [Email](mailto:rithvikayithapu@gmail.com).
 
