@@ -1,6 +1,6 @@
 # Hi There :smile:
 
-:student: I'm Rithvik, a senior at VIT majoring in CS. 
+:student: I'm Rithvik, a Masters Student at North Carolina State University. 
 
 :man_technologist: I'm Interested in Data Structures and Algorithms and Web Development.
 
